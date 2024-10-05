@@ -1,3 +1,5 @@
+console.log("Hello");
+
 async function fetchData() {
     try{
         const data = await new Promise((resolve, reject) => {
